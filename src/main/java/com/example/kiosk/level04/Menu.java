@@ -80,5 +80,3 @@ public class Menu {
         System.out.println("0. 뒤로가기               | 뒤로가기");
     }
 }
-// List에 들어있는 MenuItem을 순차적으로 보여주는 함수
-// List를 리턴하는 함수
